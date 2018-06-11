@@ -1,3 +1,20 @@
+IF YOU WANT TO CLONE 
+HERES THE QUICKSTART
+
+RUNNING LOCALLY:
+git clone https://github.com/djangorobert/Employee-Search-App.git
+
+cd employee-search-app
+
+cd backend
+cd todo
+
+python manage.py migrate
+python manage.py runserver
+
+127.0.0.1:8000/search
+
+#Heres the FULL Tutorial.
 # Employee-Search-App
 A Basic Search filter in this case is used to Filter through Employees
 
